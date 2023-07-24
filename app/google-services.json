@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22775623644",
+    "project_id": "markwiz-959b1",
+    "storage_bucket": "markwiz-959b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22775623644:android:80600af4f8f3a8d38fa919",
+        "android_client_info": {
+          "package_name": "com.example.markwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22775623644-8lhe66dlool71kmtp1lvds8aekbqie2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwqMVzmO_BPd1BrAXP26N4uvTiLwZEkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22775623644-8lhe66dlool71kmtp1lvds8aekbqie2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
